@@ -2,7 +2,7 @@
     "Productos": [
       {
         "Articulo_1": 1,
-        "Marca": "Jeaguer",
+        "Marca": "tissot",
         "Modelo": "Seamaster",
         "Descripcion": "El que usa el pelon",
         "Precio": "$300,000 MXN"
